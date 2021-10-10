@@ -1,0 +1,14 @@
+{
+  "name": "Portfolio",
+  "version": "1.0.0",
+  "description": "Lalith's portfolio",
+  "main": "index.js",
+  "author": "Lalith Medury",
+  "license": "MIT",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
